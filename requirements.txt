@@ -1,0 +1,8 @@
+streamlit
+scikit
+pandas
+numpy
+pyPDF2
+re
+docx2txt
+ joblib
